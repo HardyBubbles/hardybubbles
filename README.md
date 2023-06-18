@@ -1,4 +1,18 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xThuWd5Go1F2qDsg1O/giphy.gif" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mikhail-bezpalov/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/mbezpaloff">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
+  </a>
+  <a href="your-headhunter-URL">
+    <img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge&logo=headhunter&logoColor=black" alt="HeadHunter Badge"/>
+  </a>
+</div>
 
 <!--
 **HardyBubbles/hardybubbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
