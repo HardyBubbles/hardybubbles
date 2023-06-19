@@ -69,3 +69,67 @@ I am a Data Science Engineer from Moscow, Russia.
 
 ---
 
+# My CV:
+- [Resume](https://hh.ru)
+
+# My Certificats:
+ - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/sxemixa/MyResume/blob/main/%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%9C.%D0%90..pdf)/[EN](https://github.com/sxemixa/MyResume/blob/main/Khasanov%20M.A..pdf)
+ - Udemy. 2022 The Complete Python Bootcamp From Zero to Hero in Python [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_ru.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_en.pdf)
+
+
+# Courses:
+<table>
+<tr>
+  <th>Название курса</th>
+  <th>Форма обучения</th>
+  <th>Статус</th>
+</tr>
+<tr>
+  <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
+  <td>Дистанционная</td>
+  <td>В процессе</td>
+</tr>
+<tr>
+  <td><a href = "https://www.udemy.com/course/complete-python-bootcamp//">Udemy. The Complete Python Bootcamp From Zero to Hero in Python</a></td>
+  <td>Дистанционная</td>
+  <td>Завершён</td>
+</tr>
+</table>
+
+# Study Projects:
+## Python Projects:
+<details open>
+  <summary>List of projects</summary>
+<table>
+<tr>
+  <th>Project name</th>
+  <th>Source</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/FirstTelegramBot">Telegram Bot</a></td>
+  <td>Udemy, Python</td>
+  <td>First try of writing Telegram bots</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/TikTakToe">Tik-Tak-Toe (Крестики-Нолики), the game</a></td>
+  <td>Udemy, Python</td>
+  <td>Python implementation of classic game</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/The_War_Card_Game">The War, the cards game</a></td>
+  <td>Udemy, Python</td>
+  <td>Python implementation of cards game</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/BlackJackTheCardGame">Black Jack (Двадцать одно), the cards game</a></td>
+  <td>Udemy, Python</td>
+  <td>Python implementation of classical cards game</td>
+  <td>Done</td>
+</tr>
+</table>
+</details>
