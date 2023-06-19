@@ -51,7 +51,7 @@ I am a Data Science Engineer from Moscow, Russia.
 
 - :zap: In my free time, I train to solve problems on LeedCode and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](bezpalov.mikhail@gmail.com)
+- :mailbox: How to contact with me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](bezpalov.mikhail@gmail.com)
 
 ---
 
@@ -103,7 +103,7 @@ I am a Data Science Engineer from Moscow, Russia.
 <table>
 <tr>
   <th>Project name</th>
-  <th>Source</th>
+  <th>Source, Language/Tool</th>
   <th>Description</th>
   <th>Status</th>
 </tr> 
