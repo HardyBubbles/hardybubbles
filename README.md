@@ -133,3 +133,22 @@ I am a Data Science Engineer from Moscow, Russia.
 </tr>
 </table>
 </details>
+
+## Yandex.Practicum Projects:
+<details open>
+  <summary>List of projects</summary>
+<table>
+<tr>
+  <th>Project name</th>
+  <th>Source, Language/Tool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/Yandex-Music/blob/main/yandex.music.music_of_the_big_cities.ipynb">Яндекс.Музыка: музыка больших городов</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Анализ предпочитаемых слушателями жанров в течение дня, недели, а также в двух крупнейших городах. / [ENG] Analysis of genres preferred by listeners during the day, week, as well as in the two largest cities.</td>
+  <td>Done</td>
+</tr>
+</table>
+</details>
