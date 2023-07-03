@@ -145,9 +145,15 @@ I am a Data Science Engineer from Moscow, Russia.
   <th>Status</th>
 </tr> 
 <tr>
-  <td><a href = "https://github.com/HardyBubbles/Yandex-Music/blob/main/yandex.music.music_of_the_big_cities.ipynb">Яндекс.Музыка: музыка больших городов</a></td>
+  <td><a href = "https://github.com/HardyBubbles/Yandex-Music/blob/main/yandex.music.music_of_the_big_cities.ipynb">Яндекс.Музыка: музыка больших городов.</a></td>
   <td>Yandex.Practicum, Jupiter Notebook</td>
-  <td>[RU] Анализ предпочитаемых слушателями жанров в течение дня, недели, а также в двух крупнейших городах. / [ENG] Analysis of genres preferred by listeners during the day, week, as well as in the two largest cities.</td>
+  <td>[RU] Анализ предпочитаемых слушателями жанров в течение дня, недели, в двух крупнейших городах РФ. / [ENG] Analysis of genres preferred by listeners during the day, week, in the two largest cities of Russia.</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/borrower_reliability_research">Предобработка данных: исследование надёжности заёмщиков.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. / [ENG] It is necessary to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time.</td>
   <td>Done</td>
 </tr>
 </table>
