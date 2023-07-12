@@ -156,5 +156,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. / [ENG] It is necessary to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/ads_of_apartments_for_sale_research">Исследовательский анализ: исследование объявлений о продаже квартир.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Нужно научиться определять рыночную стоимость объектов недвижимости. Основная задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. / [ENG] You need to learn how to determine the market value of real estate. The main task is to set the parameters. This will allow to build an automated system: it will track anomalies and fraudulent activity.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
