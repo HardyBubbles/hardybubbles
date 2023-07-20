@@ -162,5 +162,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Нужно научиться определять рыночную стоимость объектов недвижимости. Основная задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. / [ENG] You need to learn how to determine the market value of real estate. The main task is to set the parameters. This will allow to build an automated system: it will track anomalies and fraudulent activity.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/mobile_operator_customer_analysis">Статистический анализ: Анализ клиентов оператора сотовой связи</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Вы аналитик компании «Мегалайн» — федерального оператора сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. | [ENG] You are an analyst at Megaline, a federal mobile operator. Clients are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
