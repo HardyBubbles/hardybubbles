@@ -168,5 +168,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Вы аналитик компании «Мегалайн» — федерального оператора сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег. | [ENG] You are an analyst at Megaline, a federal mobile operator. Clients are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings in more money.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/patterns_of_game_success_research">Исследование закономерностей успешности игр</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. | [ENG] It is necessary to identify patterns that determine the success of the game. This will allow you to bid on a potentially popular product and plan advertising campaigns.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
