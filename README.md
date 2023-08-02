@@ -174,5 +174,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. | [ENG] It is necessary to identify patterns that determine the success of the game. This will allow you to bid on a potentially popular product and plan advertising campaigns.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/offering_the_right_plan_to_customers_based_on_machine_learning">Рекомендация нового тарифного плана клиентам сотового оператора.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Нужно построить модель для задачи классификации, которая выберет подходящий тариф. | [ENG] It's need to build a model for the classification problem that will select the appropriate tariff plan.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
