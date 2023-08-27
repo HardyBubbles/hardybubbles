@@ -181,5 +181,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Нужно построить модель для задачи классификации, которая выберет подходящий тариф. | [ENG] It's need to build a model for the classification problem that will select the appropriate tariff plan.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/customer_churn_prediction">Прогнозирование оттока клиентов. Задача классификации.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. | [ENG] It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on customer behavior and termination of agreements with the bank.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
