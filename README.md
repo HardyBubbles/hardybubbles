@@ -187,5 +187,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком. | [ENG] It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on customer behavior and termination of agreements with the bank.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/choosing_a_location_for_an_oil_well">Машинное обучение в бизнесе. Выбор локации для скважины.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap. | [ENG] Build a machine learning model to help determine the region where mining will bring the most profit. Analyze possible profits and risks using the Bootstrap technique.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
