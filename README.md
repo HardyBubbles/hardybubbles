@@ -193,5 +193,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap. | [ENG] Build a machine learning model to help determine the region where mining will bring the most profit. Analyze possible profits and risks using the Bootstrap technique.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/gold_production_from_ore">Восстановление золота из руды. Задача регрессии</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Используйте данные с параметрами добычи и очистки. | [ENG] The model must predict the recovery rate of gold from gold ore. Use data with mining and purification parameters.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
