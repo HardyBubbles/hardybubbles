@@ -195,9 +195,15 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>Done</td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/HardyBubbles/gold_production_from_ore">Восстановление золота из руды. Задача регрессии</a></td>
+  <td><a href = "https://github.com/HardyBubbles/choosing_a_location_for_an_oil_well">Машинное обучение в бизнесе. Выбор локации для скважины.</a></td>
   <td>Yandex.Practicum, Jupiter Notebook</td>
-  <td>[RU] Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Используйте данные с параметрами добычи и очистки. | [ENG] The model must predict the recovery rate of gold from gold ore. Use data with mining and purification parameters.</td>
+  <td>[RU] Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap. | [ENG] Build a machine learning model to help determine the region where mining will bring the most profit. Analyze possible profits and risks using the Bootstrap technique.</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/clients_personal_data_protection/blob/main/README.md">Защита персональных данных клиентов. Линейная алгебра</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Нужно защитить данные, преобразовав их так, чтобы в последствии качество моделей машинного обучения не ухудшилось. | [ENG] It is necessary to protect the data by transforming it so that the quality of machine learning models does not subsequently deteriorate.</td>
   <td>Done</td>
 </tr>
 </table>
