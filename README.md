@@ -195,15 +195,15 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>Done</td>
 </tr>
 <tr>
-  <td><a href = "https://github.com/HardyBubbles/choosing_a_location_for_an_oil_well">Машинное обучение в бизнесе. Выбор локации для скважины.</a></td>
-  <td>Yandex.Practicum, Jupiter Notebook</td>
-  <td>[RU] Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap. | [ENG] Build a machine learning model to help determine the region where mining will bring the most profit. Analyze possible profits and risks using the Bootstrap technique.</td>
-  <td>Done</td>
-</tr>
-<tr>
   <td><a href = "https://github.com/HardyBubbles/clients_personal_data_protection/blob/main/README.md">Защита персональных данных клиентов. Линейная алгебра</a></td>
   <td>Yandex.Practicum, Jupiter Notebook</td>
   <td>[RU] Нужно защитить данные, преобразовав их так, чтобы в последствии качество моделей машинного обучения не ухудшилось. | [ENG] It is necessary to protect the data by transforming it so that the quality of machine learning models does not subsequently deteriorate.</td>
+  <td>Done</td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/determining_the_cost_of_cars_regression_problem">Определение стоимости автомобилей. Задача регрессии</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости. | [ENG] A service for selling used cars is developing an application to attract new customers. Here you can quickly find out the market value of your car. Historical data is at your disposal: technical characteristics, configurations and prices of cars. You need to build a model to determine the cost.</td>
   <td>Done</td>
 </tr>
 </table>
