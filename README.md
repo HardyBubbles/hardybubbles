@@ -206,5 +206,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости. | [ENG] A service for selling used cars is developing an application to attract new customers. Here you can quickly find out the market value of your car. Historical data is at your disposal: technical characteristics, configurations and prices of cars. You need to build a model to determine the cost.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/taxi_order_forecasting">Временные ряды. Прогнозирование заказов такси.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. | [ENG] To attract more drivers during peak periods, you need to predict the number of taxi orders for the next hour.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
