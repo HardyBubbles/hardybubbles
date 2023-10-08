@@ -76,7 +76,7 @@ I am a Data Science Engineer from Moscow, Russia.
 
 # My Certificats:
  - Udemy. 2022 The Complete Python Bootcamp From Zero to Hero in Python [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_ru.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_en.pdf)
- - Специалист по Data Science [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_ENG.pdf)
+ - Яндекс Практикум. Специалист по Data Science [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_ENG.pdf)
 
 
 # Courses:
