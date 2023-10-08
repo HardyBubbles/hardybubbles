@@ -212,5 +212,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. | [ENG] To attract more drivers during peak periods, you need to predict the number of taxi orders for the next hour.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/toxic_comments_classification">Машинное обучение для текстов. Классификация комментариев.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок. | [ENG] Train the model to classify comments into positive and negative. At your disposal is a set of data with markings about the toxicity of edits.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
