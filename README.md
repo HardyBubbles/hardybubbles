@@ -218,5 +218,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок. | [ENG] Train the model to classify comments into positive and negative. At your disposal is a set of data with markings about the toxicity of edits.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/computer_vision_determining_the_age_of_buyers/tree/main">Компьютерное зрение. Определние возраста покупателей.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста. | [ENG] Build a model that will determine the approximate age of a person from a photograph. At your disposal is a set of photographs of people indicating their age.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
