@@ -224,5 +224,17 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>[RU] Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста. | [ENG] Build a model that will determine the approximate age of a person from a photograph. At your disposal is a set of photographs of people indicating their age.</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/final_project_fusion_temperature_prediction">Финальный проект: предсказание температуры сплава.</a></td>
+  <td>Yandex.Practicum, Jupiter Notebook</td>
+  <td>[RU] С целью сокращения промышленных издержек, требуется предсказать температуру сплава в конце производственного цикла. / [ENG] In order to reduce industrial costs, it is required to predict the temperature of the alloy at the end of the production cycle.</td>
+  <td>Done</td>
+</tr>
 </table>
 </details>
