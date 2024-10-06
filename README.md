@@ -76,6 +76,7 @@ I am a Data Science Engineer from Moscow, Russia.
 
 # My Certificats:
  - Udemy. 2022 The Complete Python Bootcamp From Zero to Hero in Python [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_ru.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_en.pdf)
+ - Stepik. Basics of statistics. Основы статистики. [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/stepik-stat-bas-ru.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/stepik-stat-bas-en.pdf)
  - Яндекс Практикум. Специалист по Data Science [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_ENG.pdf)
 
 # Recommended books:
@@ -102,6 +103,11 @@ I am a Data Science Engineer from Moscow, Russia.
 </tr>
 <tr>
   <td><a href = "https://www.udemy.com/course/complete-python-bootcamp//">Udemy. The Complete Python Bootcamp From Zero to Hero in Python</a></td>
+  <td>Дистанционная</td>
+  <td>Завершён</td>
+</tr>
+<tr>
+  <td><a href = "https://stepik.org/course/76/syllabus//">Stepik. Basics of statistics. | Stepik. Основы статистики</a></td>
   <td>Дистанционная</td>
   <td>Завершён</td>
 </tr>
