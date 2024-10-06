@@ -78,6 +78,15 @@ I am a Data Science Engineer from Moscow, Russia.
  - Udemy. 2022 The Complete Python Bootcamp From Zero to Hero in Python [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_ru.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/UC-85aeca61-a070-4813-a817-451bc909b1c5_en.pdf)
  - Яндекс Практикум. Специалист по Data Science [RUS](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU.pdf)/[EN](https://github.com/HardyBubbles/hardybubbles/blob/main/%D0%AF%D0%9F_DS_%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_ENG.pdf)
 
+# Recommended books:
+1) Chip Huyen. Designing machine learning systems. | Чип Хьюен. Проектирование систем машинного обучения.
+2) Charles Wheelan. Naked statistics: stripping. | Чарльз Уилан. Голая статистика.
+3) Aditya Bhargava. Grokking Algorithms. | Адитья Бхаргава. Грокаем алгоритмы.
+4) Peter Bruce, Andrew Bruce, Peter Gedeck. Practical Statistics for Data Scientists | Питер Брюс, Эндрю Брюс, Питер Гедек. Практическая сатистика для специалистов Data Science.
+5) Wes McKinney. Python for Data Analysis. | Уэс Маккинни. Python и анализ данных.
+6) Jake VanderPlas. Python data science handbook. | Python для сложных задач.
+7) Clarence Chio, David Freeman. Machine learning and security. | Кларенс Чио, Дэвид Фримен. Машинное обучение и безопасность.
+8) Артём Груздев, Грег Рафферти. Прогнозирование временных рядов с помощью Facebook Prophet, ETNA, Sktime и LinkedIn Greykite. 
 
 # Courses:
 <table>
