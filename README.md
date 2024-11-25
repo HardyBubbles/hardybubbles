@@ -259,3 +259,23 @@ I am a Data Science Engineer from Moscow, Russia.
 </tr>
 </table>
 </details>
+
+# Pet & Work Projects:
+## Pet:
+<details open>
+  <summary>List of projects</summary>
+<table>
+<tr>
+  <th>Project name</th>
+  <th>Source, Language/Tool</th>
+  <th>Description</th>
+  <th>Status</th>
+</tr> 
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/bitcoin_regression">Bitcoin price forecasting</a></td>
+  <td>Bitcoin price forecasting</td>
+  <td>Time series forecasting by linear regression</td>
+  <td>Done</td>
+</tr>
+</table>
+</details>
