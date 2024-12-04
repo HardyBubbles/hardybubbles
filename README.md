@@ -277,5 +277,11 @@ I am a Data Science Engineer from Moscow, Russia.
   <td>Time series forecasting by linear regression</td>
   <td>Done</td>
 </tr>
+<tr>
+  <td><a href = "https://github.com/HardyBubbles/price_etna_ml_forecast">Price timeseries forecasting</a></td>
+  <td>Forecasting the price of Indian spices by ETNA</td>
+  <td>Time series forecasting by different ML method from ETNA library</td>
+  <td>In process</td>
+</tr>
 </table>
 </details>
