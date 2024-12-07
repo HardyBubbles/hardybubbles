@@ -279,7 +279,7 @@ I am a Data Science Engineer from Moscow, Russia.
 </tr>
 <tr>
   <td><a href = "https://github.com/HardyBubbles/price_etna_ml_forecast">Price timeseries forecasting</a></td>
-  <td>Forecasting the price of Indian spices by ETNA</td>
+  <td>Forecasting the number of sold goods for Indian spices by ETNA</td>
   <td>Time series forecasting by different ML method from ETNA library</td>
   <td>In process</td>
 </tr>
